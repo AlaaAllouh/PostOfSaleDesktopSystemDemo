@@ -17,7 +17,7 @@ A POS system is widely used in retail businesses to handle transactions, manage 
 
 🧰 Technologies Used
 
-*C#
+* C#
 * Windows Forms (.NET)
 * SQL Server / Local Database
 * .NET Framework
@@ -30,7 +30,7 @@ The system simulates a real-world POS environment where:
 * The system calculates the total cost
 * The transaction is recorded and stored
 
-POS systems are essential for businesses as they combine sales processing with data tracking and inventory management ([Investopedia][1])
+POS systems are essential for businesses as they combine sales processing with data tracking and inventory management.
 
 📂 Project Structure
 
